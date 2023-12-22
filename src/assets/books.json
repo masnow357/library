@@ -1,0 +1,156 @@
+{
+    "books": [
+        {
+            "name": "The Great Gatsby",
+            "description": "A classic novel by F. Scott Fitzgerald.",
+            "image": "https://example.com/gatsby.jpg",
+            "author": "F. Scott Fitzgerald",
+            "rented": false,
+            "genre": "Fiction"
+        },
+        {
+            "name": "To Kill a Mockingbird",
+            "description": "Harper Lee's masterpiece depicting racial injustice.",
+            "image": "https://example.com/mockingbird.jpg",
+            "author": "Harper Lee",
+            "rented": true,
+            "genre": "Drama"
+        },
+        {
+            "name": "1984",
+            "description": "George Orwell's dystopian novel.",
+            "image": "https://example.com/1984.jpg",
+            "author": "George Orwell",
+            "rented": true,
+            "genre": "Science Fiction"
+        },
+        {
+            "name": "The Hobbit",
+            "description": "J.R.R. Tolkien's fantasy adventure.",
+            "image": "https://example.com/hobbit.jpg",
+            "author": "J.R.R. Tolkien",
+            "rented": false,
+            "genre": "Fantasy"
+        },
+        {
+            "name": "Pride and Prejudice",
+            "description": "Jane Austen's romantic classic.",
+            "image": "https://example.com/pride.jpg",
+            "author": "Jane Austen",
+            "rented": false,
+            "genre": "Romance"
+        },
+        {
+            "name": "The Catcher in the Rye",
+            "description": "J.D. Salinger's coming-of-age novel.",
+            "image": "https://example.com/catcher.jpg",
+            "author": "J.D. Salinger",
+            "rented": true,
+            "genre": "Fiction"
+        },
+        {
+            "name": "The Lord of the Rings",
+            "description": "J.R.R. Tolkien's epic fantasy trilogy.",
+            "image": "https://example.com/lotr.jpg",
+            "author": "J.R.R. Tolkien",
+            "rented": false,
+            "genre": "Fantasy"
+        },
+        {
+            "name": "The Da Vinci Code",
+            "description": "Dan Brown's mystery thriller.",
+            "image": "https://example.com/davinci.jpg",
+            "author": "Dan Brown",
+            "rented": false,
+            "genre": "Mystery"
+        },
+        {
+            "name": "Harry Potter and the Sorcerer's Stone",
+            "description": "J.K. Rowling's magical adventure.",
+            "image": "https://example.com/harrypotter.jpg",
+            "author": "J.K. Rowling",
+            "rented": true,
+            "genre": "Fantasy"
+        },
+        {
+            "name": "Brave New World",
+            "description": "Aldous Huxley's dystopian classic.",
+            "image": "https://example.com/bravenewworld.jpg",
+            "author": "Aldous Huxley",
+            "rented": true,
+            "genre": "Science Fiction"
+        },
+        {
+            "name": "The Shining",
+            "description": "Stephen King's chilling horror novel.",
+            "image": "https://example.com/shining.jpg",
+            "author": "Stephen King",
+            "rented": false,
+            "genre": "Horror"
+        },
+        {
+            "name": "The Alchemist",
+            "description": "Paulo Coelho's inspirational novel.",
+            "image": "https://example.com/alchemist.jpg",
+            "author": "Paulo Coelho",
+            "rented": false,
+            "genre": "Fiction"
+        },
+        {
+            "name": "Moby-Dick",
+            "description": "Herman Melville's epic sea adventure.",
+            "image": "https://example.com/mobydick.jpg",
+            "author": "Herman Melville",
+            "rented": true,
+            "genre": "Adventure"
+        },
+        {
+            "name": "The Girl with the Dragon Tattoo",
+            "description": "Stieg Larsson's gripping mystery.",
+            "image": "https://example.com/dragontattoo.jpg",
+            "author": "Stieg Larsson",
+            "rented": true,
+            "genre": "Mystery"
+        },
+        {
+            "name": "The Hunger Games",
+            "description": "Suzanne Collins' dystopian saga.",
+            "image": "https://example.com/hungergames.jpg",
+            "author": "Suzanne Collins",
+            "rented": false,
+            "genre": "Science Fiction"
+        },
+        {
+            "name": "The Road",
+            "description": "Cormac McCarthy's post-apocalyptic novel.",
+            "image": "https://example.com/theroad.jpg",
+            "author": "Cormac McCarthy",
+            "rented": false,
+            "genre": "Dystopian"
+        },
+        {
+            "name": "The Odyssey",
+            "description": "Homer's epic poem of adventure.",
+            "image": "https://example.com/odyssey.jpg",
+            "author": "Homer",
+            "rented": true,
+            "genre": "Adventure"
+        },
+        {
+            "name": "The Secret Garden",
+            "description": "Frances Hodgson Burnett's classic children's novel.",
+            "image": "https://example.com/secretgarden.jpg",
+            "author": "Frances Hodgson Burnett",
+            "rented": false,
+            "genre": "Children's"
+        },
+        {
+            "name": "Wuthering Heights",
+            "description": "Emily Brontë's passionate tale of love and revenge.",
+            "image": "https://example.com/wutheringheights.jpg",
+            "author": "Emily Brontë",
+            "rented": true,
+            "genre": "Romance"
+        }
+    ]
+}
